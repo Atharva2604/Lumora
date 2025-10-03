@@ -1,0 +1,7 @@
+project_id = "avkkiqzxhufaungpjprl"
+
+[functions.process-image]
+verify_jwt = false
+
+[functions.process-voice]
+verify_jwt = false
